@@ -1,4 +1,14 @@
-# ngx-treeview [![Build Status](https://travis-ci.org/leovo2708/ngx-treeview.svg?branch=master)](https://travis-ci.org/leovo2708/ngx-treeview) [![npm version](https://badge.fury.io/js/ngx-treeview.svg)](https://badge.fury.io/js/ngx-treeview)
+- Based on the solution found here: https://github.com/leovo2708/ngx-treeview
+I just added support for current angular versions!!
+
+
+Currently supported versions:
+
+- Angular 12
+```
+npm install @basti_sk/ngx-treeview@12.0.0
+```
+
 
 An Angular treeview component with checkbox
 

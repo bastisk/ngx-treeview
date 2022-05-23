@@ -1,8 +1,8 @@
 {
-  "name": "angular-ngx-treeview",
-  "version": "0.0.0",
+  "name": "@basti_sk/ngx-treeview",
+  "version": "12.0.0",
   "license": "MIT",
-  "description": "An Angular treeview component with checkbox",
+  "description": "An Angular treeview component with checkbox, based on the work of https://github.com/leovo2708/ngx-treeview",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -27,13 +27,13 @@
     "recursive",
     "angular tree component"
   ],
-  "author": "Leo Vo <leovo2708@gmail.com>",
+  "author": "Basti SK <basti.sk@gmx.de>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leovo2708/ngx-treeview.git"
+    "url": "git+https://github.com/bastisk/ngx-treeview.git"
   },
   "bugs": {
-    "url": "https://github.com/leovo2708/ngx-treeview/issues"
+    "url": "https://github.com/bastisk/ngx-treeview/issues"
   },
   "dependencies": {
     "@angular/animations": "~12.2.16",
